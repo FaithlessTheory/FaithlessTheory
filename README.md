@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **robert@mizen.se**
 
-- ⚡ Fun fact **Im a Brit but live in Sweden**
+- ⚡ Fun fact **Im a Brit but live in Sweden 🇪🇺🇬🇧🇸🇪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
