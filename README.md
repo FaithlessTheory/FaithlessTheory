@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [mizen.se](https://www.mizen.se)
 
-- 💬 Ask me about **Linux, Servers, Networking, Game Production & Kanban**
+- 💬 Ask me about **Technology, Linux, Servers, Networking, Game Production & Kanban**
 
 - 📫 How to reach me **robert@mizen.se**
 
