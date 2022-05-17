@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faithlesstheory&label=Profile%20views&color=0e75b6&style=flat" alt="faithlesstheory" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faithlesstheory&theme=onedark&row=2&column=3" alt="faithlesstheory" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faithlesstheory&theme=onedark&row=1&column=6" alt="faithlesstheory" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/robert_mizen" target="blank"><img src="https://img.shields.io/twitter/follow/robert_mizen?logo=twitter&style=for-the-badge" alt="robert_mizen" /></a> </p>
 
