@@ -1,5 +1,5 @@
 <h1 align="center">Hej! Git Peeps, I'm Robert (Faithless Theory online)</h1>
-<h3 align="center">I am a Teacher, Tech YouTuber and Human i suppose 🤷🏼</h3>
+<h3 align="center">I am a Teacher, Tech YouTuber and Human i think 🤷🏼</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faithlesstheory&label=Profile%20views&color=0e75b6&style=flat" alt="faithlesstheory" /> </p>
 
