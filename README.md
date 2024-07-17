@@ -13,7 +13,7 @@
 
 - 🧑🏼‍🏫 I’m Teaching at [Polhemsskolan i Gävle](https://www.gavle.se/kommunens-service/utbildning-och-barnomsorg/gymnasieskola-och-gymnasiesarskola/lista-over-gymnasieskolor-och-gymnasiesarskolor-i-gavle-kommun/polhemsskolan/polhemsskolan/)
 
-- 👨‍💻 All me and my work at [mizen.se](https://www.mizen.se)
+- 👨‍💻 All about me and my work at [mizen.se](https://www.mizen.se)
 
 - 💬 Ask me about **Technology, Linux, Servers, Networking, Game Production & Kanban**
 
