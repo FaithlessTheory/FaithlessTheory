@@ -9,7 +9,7 @@
 
 - 📹 I’m currently creating on [YouTube](https://www.youtube.com/c/RobertMizen)
 
-- 📚 I’m currently learning **Swift, UE5 and Active Directory**
+- 📚 I’m currently learning **Azure, OpenSUSE and Podman**
 
 - 🧑🏼‍🏫 I’m Teaching at [Polhemsskolan i Gävle](https://www.gavle.se/kommunens-service/utbildning-och-barnomsorg/gymnasieskola-och-gymnasiesarskola/lista-over-gymnasieskolor-och-gymnasiesarskolor-i-gavle-kommun/polhemsskolan/polhemsskolan/)
 
