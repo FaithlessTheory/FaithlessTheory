@@ -1,3 +1,5 @@
+![Images of me doing ma thang.](cv_header.png)
+
 <h1 align="center">Hej! Git Peeps, I'm Robert (Faithless Theory online)</h1>
 <h3 align="center">I am a Teacher, Tech YouTuber and Human i think 🤷🏼</h3>
 
